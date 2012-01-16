@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\Visual Studio 2010\Projects\TimeTracker\TimeTracker\bin\Debug\TimeTracker.exe
+C:\Users\Home\Documents\Visual Studio 2010\Projects\TimeTracker\TimeTracker\bin\Debug\TimeTracker.pdb
+C:\Users\Home\Documents\Visual Studio 2010\Projects\TimeTracker\TimeTracker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2010\Projects\TimeTracker\TimeTracker\obj\x86\Debug\MainWindow.baml
+C:\Users\Home\Documents\Visual Studio 2010\Projects\TimeTracker\TimeTracker\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Home\Documents\Visual Studio 2010\Projects\TimeTracker\TimeTracker\obj\x86\Debug\App.g.cs
+C:\Users\Home\Documents\Visual Studio 2010\Projects\TimeTracker\TimeTracker\obj\x86\Debug\TimeTracker_MarkupCompile.cache
+C:\Users\Home\Documents\Visual Studio 2010\Projects\TimeTracker\TimeTracker\obj\x86\Debug\TimeTracker.g.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\TimeTracker\TimeTracker\obj\x86\Debug\TimeTracker.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\TimeTracker\TimeTracker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Home\Documents\Visual Studio 2010\Projects\TimeTracker\TimeTracker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Home\Documents\Visual Studio 2010\Projects\TimeTracker\TimeTracker\obj\x86\Debug\TimeTracker.exe
+C:\Users\Home\Documents\Visual Studio 2010\Projects\TimeTracker\TimeTracker\obj\x86\Debug\TimeTracker.pdb
